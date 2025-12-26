@@ -5,7 +5,7 @@ import { ExternalLink, Github } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import project1 from '@/assets/project1.jpg';
 import project2 from '@/assets/project2.jpg';
-import project3 from '@/assets/project3.jpg';
+import project3 from '@/assets/Project3.jpg';
 
 const projects = [
   {
